@@ -1,0 +1,11 @@
+.Currency {
+  padding: 10px 0;
+  border: 1px solid black;
+  margin: 5px 0;
+  cursor: pointer;
+  transition: all 0.3s;
+
+  &:hover {
+    background-color: lightgray;
+  }
+}

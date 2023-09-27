@@ -1,9 +1,9 @@
-import { List } from "../../List/List";
+import { CurrencyList } from "../../components/Table/CurrencyList";
 
 export function Home() {
   return (
     <div>
-      <List />
+      <CurrencyList />
     </div>
   );
 }
